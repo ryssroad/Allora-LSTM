@@ -140,7 +140,7 @@ chmod +x init.config
 
 ## Step 4: Run Script
 ```bash
-wget https://raw.githubusercontent.com/0xtnpxsgt/Allora-Comprehensive-Guide/BiLSTM/upgrade-model.sh && chmod +x upgrade-model.sh && ./upgrade-model.sh
+wget https://raw.githubusercontent.com/ryssroad/Allora-LSTM/refs/heads/BiLSTM/upgrade-model.sh && chmod +x upgrade-model.sh && ./upgrade-model.sh
 ```
 
 -------------------------------------------------------------
